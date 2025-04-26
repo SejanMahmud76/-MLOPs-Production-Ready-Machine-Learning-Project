@@ -8,7 +8,7 @@
 
 
 ## Git commands
-
+```bash
 cd -- -MLOPs-Production-Ready-Machine-Learning-Project
 
 git add .
@@ -16,3 +16,4 @@ git add .
 git commit -m "Updated"
 
 git push origin main
+```
